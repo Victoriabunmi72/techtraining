@@ -1,1 +1,35 @@
-http.txt
+HTTP Summary.
+
+HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the internet, serving as the foundation for data communication between web browsers and servers. It defines how messages are formatted and transmitted, enabling the retrieval of web pages.
+
+Key words with brief explanation:
+
+1. Hypertext Transfer Protocol (HTTP):
+A protocol governing data transfer on the World Wide Web.
+
+2. Foundation:
+The basis for communication between web browsers and servers.
+
+3. Data Communication:
+The process of exchanging messages and information.
+
+4. Web Pages:
+Documents on the internet accessible via web browsers.
+
+5. Message Formatting:
+The structure and organization of data for transmission.
+
+6. Transmission:
+The process of sending and receiving data between web browsers and servers.
+
+7. Retrieval:
+Fetching or obtaining web pages from servers.
+
+8. Internet Protocol (IP)
+Part of the standardized protocols supporting HTTP.
+
+9. Web Browsing:
+Navigating and viewing content on the internet.
+
+10. World Wide Web:
+The global system of interconnected documents and resources accessible via the internet.t

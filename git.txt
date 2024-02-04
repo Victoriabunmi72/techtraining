@@ -1,1 +1,53 @@
-git.txt
+Git Summary.
+
+Git is a distributed version control system designed for tracking changes in source code during software development. It enables collaboration among multiple developers and maintains a history of code modifications.
+
+Some Keywords to track source code changes:
+
+1. Source Code:
+The human-readable instructions written in a programming language that form the basis of software.
+
+2. Version Control:
+Managing and tracking different versions of the codebase.
+
+3. Repository:
+A storage location that holds the codebase and its entire version history.
+
+4. Commit:
+A snapshot of the code at a specific point in time, accompanied by a descriptive message.
+
+5. Branching:
+Creating separate lines of development within the codebase.
+
+6. Merging:
+Combining changes from different branches.
+
+7. Pull Request:
+A proposed set of changes submitted for review and integration.
+
+8. Clone:
+Copying a repository from a remote source to a local machine.
+
+9. Commit History:
+The chronological display of all commits made to the codebase.
+
+10. Git Bash:
+A command-line interface for interacting with Git on Windows.
+
+
+Here are a few essential Git commands along with their brief explanations:
+
+git init:
+Initializes a new Git repository in the current directory.
+
+git clone <repository-url>:
+Clones a repository from a specified URL to the local machine.
+
+git add <file>:
+Adds changes in a specific file to the staging area in preparation for a commit.
+
+git commit -m "message":
+Commits changes in the staging area with a descriptive message.
+
+git status:
+Displays the current status of changes, showing untracked, modified, or staged files.
